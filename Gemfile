@@ -1,5 +1,5 @@
 source "http://rubygems.org"
-gem 'jsdefer', '~> 0.0.3'
+gem 'jsdefer', '~> 0.1.0'
 gem 'haml'
 
 group :development do
